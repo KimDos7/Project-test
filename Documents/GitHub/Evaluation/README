@@ -1,0 +1,9 @@
+## BREAKDOWN
+
+Main code happens in the src/eval.py
+
+## Description
+
+The main design of this system was hashmaps creating the objects and data in hashmaps and being parsed when it came to calculation time. The important thing to note was the hashmap needed a good key to organize data and this was deemed to be the query number as the data at the end needs to be organized by query number numerically. 
+
+Provide a description of system, design tradeoffs, etc., that you made.
